@@ -1,6 +1,6 @@
 # NLP_SENTIMENT-CLASSIFIER_BEGINNERS
-Goal: Build a simple NLP classifier from scratch.
-Dataset: Any small text dataset (start with tweets, movie reviews, or create your own sentences).
+Building a simple NLP classifier.
+Dataset: Any small text dataset (Twitter tweets)
 Method:
 1. Load dataset
 2. Clean text (lowercase, remove punctuation, stopwords)
